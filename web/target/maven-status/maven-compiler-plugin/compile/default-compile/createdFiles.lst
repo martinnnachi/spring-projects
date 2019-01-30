@@ -5,5 +5,6 @@ com\martinnnachi\util\AttributeNames.class
 com\martinnnachi\service\GameService.class
 com\martinnnachi\util\GameMappings.class
 com\martinnnachi\config\WebConfig.class
+com\martinnnachi\interceptor\RequestInterceptor.class
 com\martinnnachi\util\thymeleaf\DecoupledLogicSetup.class
 com\martinnnachi\WebMain.class
